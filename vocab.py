@@ -1,54 +1,65 @@
-function
+Directions: Define each term
+Resources: Use any resources you like
+Note: Looking for general understand, not perfect definition
 
-attribute
 
-parameter
+function - Chunk of code telling the computer to do something
 
-syntax
+attribute - Aspect of a function added during the function call
 
-conditional
+parameter - Guideline of a function's acceptible attribute
 
-high level
+syntax - Specific punctuation and grammar of the code
 
-machine code
+conditional - Code statement that compares two or more things
 
-assembly code
+high level - Abstraction of logical instructions
 
-compiler
+machine code - Rudimentary logical instructions
 
-RAM
+assembly code - Same thing as machine code 
 
-ROM
+low level - Same thing as machine code
 
-variable
+compiler - A program that compiles code into an executable program 
 
-global
+RAM - Computer's short term memory, like a keystroke being processed
 
-local
+ROM - Computer's long term memory, like a nintendo cartridge or hard drive
 
-library
+variable - Same as in math, like x = 427
 
-module
+global - Something that pertains to the whole program
 
-OOP
+local - Something that pertains to just the function it's in
 
-string
+library - Group of code called upon for specific shit.
 
-bool
+module - Same or similar to library. Like a pallet of stuff. 
 
-int
+OOP - Object Oriented Programming. Calling entire programs by a single variable. 
 
-tuple
+string - A data type. Letters mostly. 
 
-dict
+bool - A data type evaluated to True of False. Short for "boolean"
 
-set
+int - A data type. Numbers mostly. Short for "integer"
 
-array
+tuple - A data structure. Looks like: (1, 4). Pronounced "toopal"
 
-list
+dict - A data structure with "key: value" pairs. Looks like (a: 1)
 
-console
+set - Another type of data structure. 
 
-IDE
+array - Any group of data, like [1, 4, 6, "b", 12, "whatever"]
+
+list - Another type of data structure. All lists are arrays. 
+
+console - I'm not sure. I think it's like a readout area where you interface with the computer. 
+
+IDE - Independent Development Environment. A program for writing programs. 
+
+class - A modularized chunk of code. 
+
+git - Programming language that directly interfaces with the computer. Used in the Terminal on Mac. 
 
